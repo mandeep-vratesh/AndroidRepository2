@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5463894336",
+    "firebase_url": "https://androidworkshop2-34af9.firebaseio.com",
+    "project_id": "androidworkshop2-34af9",
+    "storage_bucket": "androidworkshop2-34af9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5463894336:android:dd88778cb95038d8",
+        "android_client_info": {
+          "package_name": "com.example.mandeep.androidworkshop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5463894336-08v5b65snak3234of6ch2ld7vm356liu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mandeep.androidworkshop2",
+            "certificate_hash": "2bb527b80fbe7ccdc4b00723c77897e580a054e8"
+          }
+        },
+        {
+          "client_id": "5463894336-ua7cf9ievcgtp18ana3sroku5koj1sb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTS8gKIWQOsxlls2R3KPvH7rbZlrpKXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5463894336-ua7cf9ievcgtp18ana3sroku5koj1sb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
